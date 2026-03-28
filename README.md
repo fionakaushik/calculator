@@ -9,4 +9,4 @@
 
 ## Author
 
-[Your Name] - Simple CLI calculator project
+- Simple CLI calculator project
