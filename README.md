@@ -7,6 +7,6 @@
 - No support for multiple operations in one session
 - Basic error handling for invalid inputs
 
-## Author
+
 
 - Simple CLI calculator project
